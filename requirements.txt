@@ -1,0 +1,49 @@
+# Core DL
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+einops
+lightning>=2.0
+
+# Data handling
+numpy
+pandas
+xarray
+netCDF4
+h5py
+
+# Geospatial libraries
+rasterio
+geopandas
+pyproj
+shapely
+cartopy
+
+# Image processing
+opencv-python
+scikit-image
+Pillow
+
+# Remote sensing utilities
+satpy
+pyresample
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Evaluation
+scikit-learn
+hydra-core
+tqdm
+
+# API & Deployment
+fastapi
+uvicorn
+streamlit
+
+# Optional but recommended
+wandb
+tensorboard
+rich
