@@ -1,4 +1,13 @@
-# Trint
+# Geospatial Time Series Forecasting Platform for Precision Agriculture
+
+## Google Earth Lansat Data:  https://earth.google.com/earth/d/1B85AVD_POQRP7wRNW3GB0y4FIQYFf2HF?usp=sharing
+
+Rendering Tools & LibrariesWeb Frameworks: 
+Tools like Mapbox or CesiumJS allow you to render high-performance 2D maps and 3D digital globes right in the browser.
+Python Libraries: Libraries like GeoPandas (for processing) and pydeck/lawnboard (for heavy WebGL rendering) are standard for geospatial analysis.
+Geospatial Databases: Using databases like PostGIS allows you to store spatial features and execute fast location queries before rendering.
+GIS Software: Tools like QGIS are standard for processing and styling raw spatial files before exporting them to a web or 3D rendering pipeline.
+
 
 https://www.mosdac.gov.in/downloadapi-manual
 
