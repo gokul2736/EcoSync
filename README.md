@@ -1,3 +1,9 @@
+
+Government systems provide probabilistic monsoon and rainfall forecasts, but farmers still lack simple, localized, crop-stage-based action advice for sowing and irrigation.
+
+
+
+
 # Geospatial Time Series Forecasting Platform for Precision Agriculture
 
 ## Google Earth Lansat Data:  https://earth.google.com/earth/d/1B85AVD_POQRP7wRNW3GB0y4FIQYFf2HF?usp=sharing
