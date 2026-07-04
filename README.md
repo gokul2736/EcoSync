@@ -80,9 +80,13 @@ https://india.mongabay.com/2025/06/weather-forecasting-improves-but-access-remai
 
 https://www.hindustantimes.com/pune-news/pune-s-iitm-to-develop-models-for-agri-prediction-water-management/story-wOWg1UF7Kbb3rMuJHpaqKN.html
 
+https://www.thehindu.com/sci-tech/agriculture/government-launches-satellite-based-farm-decision-support-system/article68531749.ece
 
+https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=157351&reg=3&lang=2
 
+https://www.heliot.ai/OPR_DRO.html
 
+https://www.ifpri.org/blog/why-farmers-india-adopt-certain-technologies-ignore-others/
 
 
 # 🚀 Project Title
